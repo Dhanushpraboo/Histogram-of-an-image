@@ -67,17 +67,17 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ~~~
 ## Output:
-Input Grayscale Image and Color Image
+### Input Grayscale Image and Color Image
 ![image](1.png)
 
 
-Histogram of Grayscale Image and any channel of Color Image
+### Histogram of Grayscale Image and any channel of Color Image
 ![image](2.png)
 ![image](3.png)
-Equalized histogram of Grayscale Image
+### Equalized histogram of Grayscale Image
 ![image](4.png)
 
-Histogram Equalization of Grayscale Image
+### Histogram Equalization of Grayscale Image
 ![image](5.png)
 ![image](6.png)
 
